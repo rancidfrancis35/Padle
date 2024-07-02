@@ -1,5 +1,6 @@
 # PadleR
 **Package for summarising GEO query & output to summary data frame**
+Dependencies: stringr, officer, tidyverse, GEOquery, openxlsx, janitor
 
 How to use:
 ```
