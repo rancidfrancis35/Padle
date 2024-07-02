@@ -1,5 +1,5 @@
 # PadleR
-**Package for summarising GEO query & output to summarise data frame**
+**Package for summarising GEO query & output to summary data frame**
 
 How to use:
 ```
