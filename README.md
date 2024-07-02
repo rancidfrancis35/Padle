@@ -1,4 +1,4 @@
-# Padle
+# PadleR
 **Package for summarising GEO query & output to summarise data frame**
 
 How to use:
@@ -13,4 +13,4 @@ process_GEO_data(GSE_accession_numbers)
 df <- gse_as_df()
 ```
 
-**Note: Ensure global variable only contains vector of GSE accession numbers before moving on with process_GEO_data(xxxxxxx)**
+**Note: Ensure global variable only contains vector of GSE accession numbers before moving on with process_GEO_data(xxxxxxx)
