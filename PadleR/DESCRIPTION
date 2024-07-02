@@ -1,0 +1,5 @@
+Package: Padle
+Type: Package
+Title: Package for summarising GEO query & output to excel
+Version: 0.0.1.1
+RoxygenNote: 7.3.2
