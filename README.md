@@ -6,10 +6,10 @@ Dependencies: stringr, officer, tidyverse, GEOquery, openxlsx, janitor
 How to use:
 ```
 #store GSE accession numbers from GEO search
-GSE_accession_numbers <- parseGSE_txt("../test_search.txt")
+accession_numbers <- parseGSE_txt("../test_search.txt")
 
 #Gathers information and outptus as GSE "Objects" in global environment
-process_GEO_data(GSE_accession_numbers)
+process_GEO_data(accession_numbers)
 
 #store as data.frame for output into excel file
 df <- gse_as_df()
